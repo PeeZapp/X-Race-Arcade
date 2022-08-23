@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAD///////9EAm9mZmZm9kkkb2ZmZmb2SSRvZmZmZvaZJG9mZmZm9kQCb2ZmZmb2JAD///////8AAAD///8PAAAAAP///w8AAAD///////8AAG9mZmZm9iQAb2ZmZmb2RAJvZmZmZvaZJG9mZmZm9kkkb2ZmZmb2SST///////9EAg==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Jetpack"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
